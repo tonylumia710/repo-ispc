@@ -50,9 +50,9 @@ SUBIR LOS ARCHIVOS AL REPOSITORIO LOCAL REPOSITORY         - GIT DIRECTORY(HE
 REMOTE REPOSITORY SUBIR LOS ARCHIVOS AL REPOSITORIO REMOTO - GIT PUSH
 
 COLABORAR EN UN PROYECTO GIT
-GIT CLONE               Clona el repo remoto compartido
-GIT BRANCH GIT CHECKOUT Crea una rema y/o ubicate en la rama de desarrollo
-GIT ADD GIT COMMIT      Sube los cambios al repo local
-GIT FETCH               Recupera los últimos cambios del servidor
-GIT MERGE               Fusiona los cambios del servidor a tu rama local
-GIT PUSH                Sube los cambios al servidor.
+- GIT CLONE               Clona el repo remoto compartido
+- GIT BRANCH GIT CHECKOUT Crea una rema y/o ubicate en la rama de desarrollo
+- GIT ADD GIT COMMIT      Sube los cambios al repo local
+- GIT FETCH               Recupera los últimos cambios del servidor
+- GIT MERGE               Fusiona los cambios del servidor a tu rama local
+- GIT PUSH                Sube los cambios al servidor.
