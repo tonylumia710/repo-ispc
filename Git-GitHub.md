@@ -6,18 +6,22 @@ Nos permite conocer los cambios realizados en los programas o software que vamos
 Nace con la necesidad de control para el Kernel de Linux.
 Coordinar el trabajo entre los diferentes desarrolladores del Equipo.
 Repositorios Locales y Remotos.
+
 ORIGENES
 Proyecto del kernel de Linux 
 Se creó para que sea distribuido, rápido y más natural 
 Es capaz de manejar proyectos grandes 
+
 SISTEMAS DE CONTROL DE VERSIONES
 MergingProyecto del kernel de Linux 
 Se creó para que sea distribuido, rápido y más natural 
 Es capaz de manejar proyectos grandes 
+
 UBICACIÓN DE REPOSITORIOS
 Repo Centralizado
 Repos Distribuidos
 Git es un Sistema de Control de Versiones DISTRIBUIDO – DVCS 
+
 VENTAJAS
 Sistema distribuido, que permite el trabajo incluso sin conexión. 
 Super rápido y ligero, optimizado para hacer operaciones de control muy rápidas. 
@@ -29,13 +33,13 @@ Operaciones locales
 Copias instantáneas
 
 INSTALACION de GIT
-###•	Es multiplataforma .Se puede instalar en cualquier sistema operativo: L	inux, OS X (Mac)y Windows.
+•###	Es multiplataforma .Se puede instalar en cualquier sistema operativo: L	inux, OS X (Mac)y Windows.
 Automáticamente se descargará la más versión adecuada.
 
 TRABAJANDO CON GIT
-###•	Desde la línea de comandos.
-###•	Existen herramientas con Interfaz de usuaria gráfica.
-###•	Está integrada a la mayoría de los IDE.
+•###	Desde la línea de comandos.
+•###	Existen herramientas con Interfaz de usuaria gráfica.
+•###	Está integrada a la mayoría de los IDE.
 
 COMANDOS BASICOS
 WORKING DIRECTORY    GIT ADD  STARTING AREA  GIT COMMIT  REPOSITORY
