@@ -68,26 +68,28 @@ El equipo Scrum está formado por los siguientes roles:
 # Planificación del Sprint
 
 ## Segmento 1:
-● ### El product Owner presenta el Backlog de Producto con más alta prioridad.
-● ### El equipo selecciona los items del Backlog de Producto con los que se puede comprometer. 
+
+### El product Owner presenta el Backlog de Producto con más alta prioridad.
+### El equipo selecciona los items del Backlog de Producto con los que se puede comprometer. 
 
 ## Segmento 2:
-● ### Decidir la estrategia para alcanzar el objetivo del Sprint (diseño).
-● ### Las tareas son creadas.
-● ### Se estiman las tareas y el backlog de sprint.
-● ### De manera colaborativa, no solamente el Scrum Master.
+### Decidir la estrategia para alcanzar el objetivo del Sprint (diseño).
+### Las tareas son creadas.
+### Se estiman las tareas y el backlog de sprint.
+### De manera colaborativa, no solamente el Scrum Master.
 
 # Sprint Review/Retrospective 
 
 # Review 
-● ### El equipo presenta la funcionalidad terminada al Producr Owner y demas stakeholders.
-● ### Los miembros del equipo responden preguntas de los stakeholders en relación a la demostración, y toman nota de los cambios propuestos. 
-● ### Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados  y prioridad de estos cambios. 
+### El equipo presenta la funcionalidad terminada al Producr Owner y demas stakeholders.
+
+### Los miembros del equipo responden preguntas de los stakeholders en relación a la demostración, y toman nota de los cambios propuestos. 
+### Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados  y prioridad de estos cambios. 
 
 # Retrospective
-● ### Provee una visión qué está funcionando y qué no. 
-● ### Se realiza al finalizar el sprint.
-● ### Participa todo el equipo.
+### Provee una visión qué está funcionando y qué no. 
+### Se realiza al finalizar el sprint.
+### Participa todo el equipo.
 
 
 
