@@ -1,4 +1,3 @@
-# repo-ispc
 ###                                           Git y GitHub
 Sistemas Control de Versiones
 Git es un sistema de control de versiones (VCS) distribuido gratuito y de código abierto diseñando para manejar desde proyectos pequeños a muy grandes, con velocidad y eficiencia.
@@ -44,4 +43,16 @@ TRABAJANDO CON GIT
 COMANDOS BASICOS
 WORKING DIRECTORY    GIT ADD  STARTING AREA  GIT COMMIT  REPOSITORY
 
+FLUJO DE TRABAJO
+CREAR, EDITAR UNA SERIE DE ARCHIVOS  WORKING AREA          - GIT ADD STAGING ATREA (INDEX) 
+SELECCIONAR LOS ARCHIVOS QUE ESTAN LISTOS                  - GIT COMMIT 
+SUBIR LOS ARCHIVOS AL REPOSITORIO LOCAL REPOSITORY         - GIT DIRECTORY(HEAD) 
+REMOTE REPOSITORY SUBIR LOS ARCHIVOS AL REPOSITORIO REMOTO - GIT PUSH
 
+COLABORAR EN UN PROYECTO GIT
+GIT CLONE               Clona el repo remoto compartido
+GIT BRANCH GIT CHECKOUT Crea una rema y/o ubicate en la rama de desarrollo
+GIT ADD GIT COMMIT      Sube los cambios al repo local
+GIT FETCH               Recupera los últimos cambios del servidor
+GIT MERGE               Fusiona los cambios del servidor a tu rama local
+GIT PUSH                Sube los cambios al servidor.
