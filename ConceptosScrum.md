@@ -65,6 +65,32 @@ El equipo Scrum está formado por los siguientes roles:
 ### Product owner (PO): Representante de lso accionistas y clientes que usan el software. Se focaliza en la parte de negocio y el es responsable del ROI del proyecto (entregar un valor superior al dinero invertido). Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las reprioriza de forma regular. 
 ### Team: Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint.
 
+# Planificación del Sprint
+
+## Segmento 1:
+
+### El product Owner presenta el Backlog de Producto con más alta prioridad.
+### El equipo selecciona los items del Backlog de Producto con los que se puede comprometer. 
+
+## Segmento 2:
+### Decidir la estrategia para alcanzar el objetivo del Sprint (diseño).
+### Las tareas son creadas.
+### Se estiman las tareas y el backlog de sprint.
+### De manera colaborativa, no solamente el Scrum Master.
+
+# Sprint Review/Retrospective 
+
+# Review 
+### El equipo presenta la funcionalidad terminada al Producr Owner y demas stakeholders.
+
+### Los miembros del equipo responden preguntas de los stakeholders en relación a la demostración, y toman nota de los cambios propuestos. 
+### Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados  y prioridad de estos cambios. 
+
+# Retrospective
+### Provee una visión qué está funcionando y qué no. 
+### Se realiza al finalizar el sprint.
+### Participa todo el equipo.
+
 
 
 
